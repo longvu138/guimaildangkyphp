@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(216, 98, 98);
+}
+
+.header .logo h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.header .logo span {
+    color: seagreen;
+}
+
+.header .login {
+    margin-top: 20px;
+}
+
+.header .login a {
+    text-decoration: none;
+    padding: 0 15px;
+    color: wheat;
+    font-size: 1.5rem;
+}
+
+.header .login a:hover {
+    color: rgb(255, 255, 255);
+}

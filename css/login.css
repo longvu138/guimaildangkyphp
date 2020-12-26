@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+#inputEmail {
+    margin-top: 30px;
+}
+
+#inputPassword {
+    margin: 30px 0px;
+}
